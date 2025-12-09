@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCOo_pSiwD_Spa2ivZfmNa1uk8VfEfCyok',
+    apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
     appId: '1:865253042256:android:0b3b8e6638e26243e44955',
     messagingSenderId: '865253042256',
     projectId: 'passmanager-914c8',
@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAfpM4bwR5epp3DL8ReIt4KP825oTYL9rY',
+    apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
     appId: '1:865253042256:ios:db69d92d15a658e6e44955',
     messagingSenderId: '865253042256',
     projectId: 'passmanager-914c8',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAYtithsdH270Ln6SYQh3aJts3iEXT2ybI',
+    apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
     appId: '1:865253042256:web:14d61bab793205ede44955',
     messagingSenderId: '865253042256',
     projectId: 'passmanager-914c8',
